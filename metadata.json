@@ -1,0 +1,8 @@
+{
+  "name": "# Afzal Hameed Portfolio",
+  "description": "A high-performance, modern professional portfolio for Afzal Hameed, Full-Stack Developer and Founder of Sparq IT Services, featuring AI integration and modern UI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
